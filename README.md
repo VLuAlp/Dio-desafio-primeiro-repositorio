@@ -1,2 +1,2 @@
 # Dio-desafio-primeiro-repositorio
-Desafio de projeto Bootcamp Dio sobre Git/Github
+Repositório criado para o desafio Bootcamp Dio
