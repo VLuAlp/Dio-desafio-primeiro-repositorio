@@ -1,0 +1,15 @@
+- Para adicionar um novo arquivo ao repositório:
+
+git add .
+
+- Para verificar status de repositorio se tem algum commit:
+
+git status
+
+- Para incluir um novo arquivo ou uma nova versão (como anotação) no repositório:
+
+git commit -m "breve descrição"
+
+- Para incluir a nova versão/arquivo no GitHub:
+
+git push origin main 
