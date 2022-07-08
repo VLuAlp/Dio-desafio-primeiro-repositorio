@@ -1,0 +1,7 @@
+Diferenças entre var, let e const
+
+Const: não muda seu valor pois é constante
+
+var: é global, ou seja pode ser acessado em todo o projeto
+
+let: variável que pode ser acessada localmente, ou seja só serve para uma função do projeto por exemplo, não funciona fora do escopo.
